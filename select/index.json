@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "留守番",
+  "base_artist": "Akali",
+  "createdAt": "2026-02-12T15:53:05.579800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "05 留守番？",
+      "artist": "オーガミニュータウン",
+      "has_synced": true,
+      "path": "select/01_05_留守番_オーガミニュータウン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "留守番 feat.音街ウナ",
+      "artist": "Akali",
+      "has_synced": false,
+      "path": "select/pl_01_留守番_feat.音街ウナ_Akali.txt"
+    }
+  ]
+}
